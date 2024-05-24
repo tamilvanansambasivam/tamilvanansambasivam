@@ -3,9 +3,7 @@
 
 <p>🔍 Always questioning, thinking from first principles, and testing ideas rigorously. I pride myself on not fooling myself and being open to changing my mind regularly. Laughter is my constant companion, and I approach problem-solving holistically and with a long-term perspective. Most importantly, I don't take myself too seriously. Let's build great things and have fun doing it! 😄🌱</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamilvanansambasivam&label=Profile%20views&color=0e75b6&style=flat" alt="tamilvanansambasivam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilvanansambasivam" alt="tamilvanansambasivam" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
