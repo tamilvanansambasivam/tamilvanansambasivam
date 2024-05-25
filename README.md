@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamilvanan</h1>
 <h3 align="center">I love problem solving and am always eager to learn new things and improve my skills.</h3>
 
+######About me
 <p>🔍 Always questioning, thinking from first principles, and testing ideas rigorously. I pride myself on not fooling myself and being open to changing my mind regularly. Laughter is my constant companion, and I approach problem-solving holistically and with a long-term perspective. Most importantly, I don't take myself too seriously. Let's build great things and have fun doing it! 😄🌱</p>
 
 
