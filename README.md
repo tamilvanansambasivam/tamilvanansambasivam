@@ -27,8 +27,8 @@
 
 ### Frontend Development
 
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3schools.com/css/)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
