@@ -4,8 +4,6 @@
 <h3 align="left">About me:</h3>
 <p>🔍 Always questioning, thinking from first principles, and testing ideas rigorously. I pride myself on not fooling myself and being open to changing my mind regularly. Laughter is my constant companion, and I approach problem-solving holistically and with a long-term perspective. Most importantly, I don't take myself too seriously. Let's build great things and have fun doing it! 😄🌱</p>
 
-
-
 - 📫 How to reach me **tamilvanansambasivam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +16,10 @@
       height="30"
       width="40"
   /></a>
+
+   <a href="https://www.youtube.com/@tmlvnn" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
   
 </p>
 
@@ -42,7 +44,6 @@
 - [Figma](https://www.figma.com/)
 - [Postman](https://postman.com)
 
-
 <p>
   <img
     align="left"
@@ -66,5 +67,3 @@
     alt="tamilvanansambasivam"
   />
 </p>
-
-
