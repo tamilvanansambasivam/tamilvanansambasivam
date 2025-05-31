@@ -6,8 +6,6 @@
 
 
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-
 - 📫 How to reach me **tamilvanansambasivam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
