@@ -39,9 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvanansambasivam&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilvanansambasivam&theme=tokyonight&hide_border=true" height="160" />
-</p>
+
 
 ---
 
