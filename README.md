@@ -56,13 +56,22 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tamilvanansambasivam" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:12px; box-shadow: 0 0 10px #0A66C2, 0 0 20px #0A66C2;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:12px; box-shadow: 0 0 12px #0A66C2;" />
   </a>
   &nbsp;&nbsp;
   <!-- YouTube -->
   <a href="https://www.youtube.com/@tmlvnn" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" style="border-radius:12px; box-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" style="border-radius:12px; box-shadow: 0 0 12px #FF0000;" />
   </a>
+  &nbsp;&nbsp;
+  <!-- Dev.to -->
+  <a href="https://dev.to/tamilvanan" target="_blank">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="50" style="border-radius:12px; box-shadow: 0 0 12px #ffffff33;" />
+  </a>
+</p>
+
+
+
 </p>
 
 
