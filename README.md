@@ -53,14 +53,16 @@
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tamilvanansambasivam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="border-radius: 12px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="border-radius:12px; box-shadow: 0 0 10px #0A66C2, 0 0 20px #0A66C2;" />
   </a>
   &nbsp;&nbsp;
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@tmlvnn" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" style="border-radius: 12px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" style="border-radius:12px; box-shadow: 0 0 10px #FF0000, 0 0 20px #FF0000;" />
   </a>
 </p>
+
 
