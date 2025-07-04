@@ -39,6 +39,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvanansambasivam&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
+---
+
+## 🎯 Platforms & Progress
+
+### 🔐 TryHackMe
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tamilvanan.png)
+
+### 🧮 LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tamilvanansambasivam?ext=contest)](https://leetcode.com/u/tamilvanansambasivam/)
 
 
 ---
@@ -54,3 +63,4 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" style="border-radius: 12px;" />
   </a>
 </p>
+
