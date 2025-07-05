@@ -63,15 +63,14 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/tamilvanansambasivam?ext=contest)](https://leetcode.com/u/tamilvanansambasivam/)
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tamilvanansambasivam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="10" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="16" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@tmlvnn" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="10" alt="YouTube" />
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" height="16" alt="YouTube" />
   </a>
 </p>
 
