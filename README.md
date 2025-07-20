@@ -76,14 +76,18 @@
 
 
 ---
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tamilvanansambasivam" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="16" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/tamilvanansambasivam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.youtube.com/@tmlvnn" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" height="16" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
