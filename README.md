@@ -56,8 +56,7 @@
 
 ## 🎯 Platforms & Progress
 
-### 🧑‍💻 Hack The Box
-[![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-View%20Profile-blue?logo=hackthebox&style=for-the-badge)](https://app.hackthebox.com/users/371412)
+
 
 ### 🔐 TryHackMe
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tamilvanan.png)](https://tryhackme.com/p/tamilvanan)
