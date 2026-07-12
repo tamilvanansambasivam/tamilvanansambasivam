@@ -105,7 +105,7 @@
 </a>
 <br/>
 <a href="mailto:tamilvanansambasivam@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badg e&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
 </a>
 
 </p>
