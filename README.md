@@ -84,12 +84,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-- 🔐 Secure Login System
-- 🕷️ Web Recon Toolkit
-- 📚 Security Notes
-- 🧪 Web Vulnerability Labs
 
 ---
 
