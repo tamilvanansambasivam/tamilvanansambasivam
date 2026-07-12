@@ -45,50 +45,72 @@
 </div>
 ---
 
-## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilvanansambasivam&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilvanansambasivam&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+<img src="https://streak-stats.demolab.com?user=tamilvanansambasivam&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 Platforms & Progress
+## 📈 Contribution Graph
 
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilvanansambasivam&theme=github-dark&hide_border=true"/>
 
-### 🔐 TryHackMe
+</p>
+
+---
+
+## 🎯 Platforms
+
+### 🛡️ TryHackMe
+
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tamilvanan.png)](https://tryhackme.com/p/tamilvanan)
 
-### 🧮 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tamilvanansambasivam?ext=contest)](https://leetcode.com/u/tamilvanansambasivam/)
-
----
-
-## 🕵️‍♂️ CTF Platforms
-
 ### 🧑‍💻 Hack The Box
+
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-%2399FE00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/371412)
 
-### 🔐 TryHackMe
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tamilvanan)
+### 💻 LeetCode
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tamilvanansambasivam?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/tamilvanansambasivam/)
 
 ---
 
+## 📂 Featured Projects
 
-## 🌐 Connect With Me
+- 🔐 Secure Login System
+- 🕷️ Web Recon Toolkit
+- 📚 Security Notes
+- 🧪 Web Vulnerability Labs
+
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/tamilvanansambasivam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tamilvanansambasivam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@tmlvnn" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
 
+<a href="https://linkedin.com/in/tamilvanansambasivam">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tamilvanansambasivam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/tamilvanan">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+<br/>
+<a href="mailto:tamilvanansambasivam@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badg e&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
