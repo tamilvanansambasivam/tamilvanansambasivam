@@ -4,9 +4,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="light.png" />
-  <img alt="tamilvanansambasivam's GitHub profile" src="dark.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light.svg" />
+  <img alt="tamilvanansambasivam's GitHub profile" src="dark.svg" />
 </picture>
 
 ---
