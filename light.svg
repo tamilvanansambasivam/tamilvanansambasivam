@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-label="Tamilvanan Sambasivam, problem solver. Try, err and improve.">
+<style>
+  .a { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #111111; white-space: pre; animation: rise .5s ease-out both; }
+  .n { font: 700 34px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', sans-serif; fill: #0A0A0A; letter-spacing: .5px; }
+  .r { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', sans-serif; fill: #0A0A0A; letter-spacing: 4.5px; }
+  .m { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #8A8A87; }
+  .l { font: 600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', sans-serif; fill: #8A8A87; letter-spacing: 3px; }
+  .k { font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #8A8A87; }
+  .v { font: 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, 'Noto Sans Tamil', 'Tamil Sangam MN', 'Nirmala UI', sans-serif; fill: #1A1A1A; }
+  .cur { fill: #0A0A0A; animation: blink 1.1s steps(1) infinite; }
+  .card { animation: fade .7s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .a, .card, .cur { animation: none; } }
+</style>
+<defs>
+  <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#D6D6D3"/></pattern>
+</defs>
+<rect width="1100" height="500" rx="18" fill="#FFFFFF"/>
+<rect x="0.5" y="0.5" width="1099" height="499" rx="17.5" fill="none" stroke="#E3E3E1"/>
+<g class="card">
+  <rect x="32" y="32" width="448" height="436" rx="12" fill="#F5F5F4"/>
+  <rect x="32" y="32" width="448" height="436" rx="12" fill="url(#dots)" opacity=".6"/>
+  <text class="a" x="51" y="140.8" style="animation-delay:0.28s">            --:------=--===========-=-----: :-::      ::</text>
+  <text class="a" x="51" y="153.6" style="animation-delay:0.31s">           =**%%%%%%%@%@@%%#**############%#*%%%##**#%%%#</text>
+  <text class="a" x="51" y="166.4" style="animation-delay:0.34s">           %*#@%%%@###########**+******#%%%%#%%#%@@@@@%%@#</text>
+  <text class="a" x="51" y="179.2" style="animation-delay:0.37s">          :*=*#%@@%%##%%##%%##****##########%%##%##**#@@%*</text>
+  <text class="a" x="51" y="192.0" style="animation-delay:0.40s">             -+*####%%%%%@%%%%########%########%###*+#@@*:</text>
+  <text class="a" x="51" y="204.8" style="animation-delay:0.43s">               ===-=------====+##*+###*%#++=++++--====--</text>
+  <text class="a" x="51" y="217.6" style="animation-delay:0.46s">                              +%%*-##%#%=</text>
+  <text class="a" x="51" y="230.4" style="animation-delay:0.49s">                              =%##*%#%%%=</text>
+  <text class="a" x="51" y="243.2" style="animation-delay:0.52s">                              =%+**%#%%%=</text>
+  <text class="a" x="51" y="256.0" style="animation-delay:0.55s">                              +#=+##+%%+=</text>
+  <text class="a" x="51" y="268.8" style="animation-delay:0.58s">                              =#=*#=:#%*=</text>
+  <text class="a" x="51" y="281.6" style="animation-delay:0.61s">                              =#+##=:*#*+        +*</text>
+  <text class="a" x="51" y="294.4" style="animation-delay:0.64s">                              -***%*-*%#=      +%%+</text>
+  <text class="a" x="51" y="307.2" style="animation-delay:0.67s">                              :#**+#++%%+     #@+</text>
+  <text class="a" x="51" y="320.0" style="animation-delay:0.70s">                               #%%*#+*%#+   -#%-</text>
+  <text class="a" x="51" y="332.8" style="animation-delay:0.73s">                               ***%###%#=   *#++***#+</text>
+  <text class="a" x="51" y="345.6" style="animation-delay:0.76s">                              :#*#**###*    -=+++***+</text>
+  <text class="a" x="51" y="358.4" style="animation-delay:0.79s">                               +#*+***%=     :---==-:</text>
+  <text class="a" x="51" y="371.2" style="animation-delay:0.82s">                                :+*+**=</text>
+  <text class="a" x="51" y="384.0" style="animation-delay:0.85s">                                  --==</text>
+  
+  <text class="n" x="532" y="128">TAMILVANAN SAMBASIVAM</text>
+  <text class="r" x="532" y="160">PROBLEM SOLVER</text>
+  <text class="m" x="532" y="194">$ try, err and improve</text>
+  <rect class="cur" x="735" y="182" width="8" height="15"/>
+  <line x1="532" y1="226" x2="1060" y2="226" stroke="#E3E3E1"/>
+  <text class="l" x="532" y="266">SPEAKS</text>
+  <text class="v" x="532" y="292">தமிழ் · English</text>
+  <text class="l" x="532" y="338">PURSUITS</text>
+  <text class="v" x="532" y="364">Reading · Writing · Speaking · Problem-solving · Computers</text>
+  <text class="l" x="532" y="410">REACH</text>
+  <text class="k" x="532" y="438">in</text>
+  <text class="v" x="562" y="438">linkedin.com/in/tamilvanansambasivam</text>
+  <text class="k" x="532" y="464">@</text>
+  <text class="v" x="562" y="464">tamilvanansambasivam@gmail.com</text>
+</g>
+</svg>
