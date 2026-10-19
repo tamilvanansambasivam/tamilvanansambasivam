@@ -60,11 +60,7 @@
   <img src="https://streak-stats.demolab.com?user=tamilvanansambasivam&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=4ADEDE&sideLabels=7873F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak"/>
 </p>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamilvanansambasivam&bg_color=0D1117&color=C9D1D9&line=7873F5&point=FF6EC4&area=true&area_color=7873F5&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec4,50:7873f5,100:4adede&height=3" alt=""/>
 
